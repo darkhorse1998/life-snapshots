@@ -18,3 +18,14 @@ Really proud to a part of the Spotle.ai family. After completion of two projects
 Being a fast learner, this ongoing challenge proves to be a really challenging one as I am quite new to using IBM Cloud Services. But, getting hands-on experience on IBM Watson is truly worth all the sweat. Dealing with Covid-19 Twitter Data Sentiment analysis for this challenge.
 
 The real insights and hidden facts behind data could only be found in the real-life data. Hence, I am looking forward to engaging myself more into such jobs, projects or internships.
+
+## Version 1.1
+Coming soon! Version 2.0
+
+$ sudo apt update
+Hit:1 https://hrishikeshkalita11.wixsite.com/website
+Building Version_2.0 [##..................] 10%
+
+Rollback to Version_1.0?
+Checkout Version_1.0
+https://github.com/darkhorse1998/life-snapshots
